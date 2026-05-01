@@ -11,6 +11,6 @@ I build backend systems, APIs, tools, bots and open-source stuff.
 
 📫 Connect with me:
 - LinkedIn: https://linkedin.com/in/frz-khan
-- Twitter: https://twitter.com/frzkhan_
+- Twitter: <https://twitter.com/frzkhan_>
 
 Thanks for stopping by! 👨‍💻
